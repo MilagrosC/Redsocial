@@ -1,0 +1,20 @@
+body {
+    /*background: #dff9fb;*/
+    background: url('/public/css/back.jpg');
+}
+
+.navbar-brand img {
+    width: 40%;
+}
+
+#titulo h1 {
+    top: 50px;
+    left: 365px;
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    text-align: center;
+    width: 60%;
+    font-size: 65px;
+    font-family: 'Dancing Script', cursive;
+}
